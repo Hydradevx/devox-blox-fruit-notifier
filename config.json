@@ -1,14 +1,14 @@
 {
     "token": "your-acc-token",
     "webhooks": {
-        "1190483035817255003": "https://discord.com/api/webhooks/1310212432106491916/lbrCksclEFy12BE992n1dM8_FB7gtHq1DG4RKymlFqAEXzp39LsK--5EMNEax3NH9sx5",
-        "1190482921727987735": "https://discordapp.com/api/webhooks/1310139056562114640/IMySFMNR1V_wSy_172oEsyOjvWW8RaBprUAEn-aE3Ep4YiWkYP85AMSfWpIj-EcWKgiB",
-        "1190570953130901534": "https://discordapp.com/api/webhooks/1310139235860348969/tOr-8jvSkryzolUhYtAOej_hbd_8AGbsv24PR7Jhvv_6XhPvW8TjOXOWx2DCNJONVmz-",
-        "1230423385347981335": "https://discordapp.com/api/webhooks/1310139411110952972/73PJxyWN8uTRXC2GejWEkcGTArPoANJ3l5ueNiyZYoF11_8qbxraE9sfLvwTV42QWJGz",
-        "1190482842816356372": "https://discordapp.com/api/webhooks/1310139411110952972/73PJxyWN8uTRXC2GejWEkcGTArPoANJ3l5ueNiyZYoF11_8qbxraE9sfLvwTV42QWJGz",
-        "1190570935233814530": "https://discordapp.com/api/webhooks/1310139685217108108/O38yXwgL_oqgyPjQErReKAOKJ4SmcICM9pGuaG-77BLQ4WpeFs-rdWDptHrwiuV_YRMa",
-        "1190482703343157408": "https://discordapp.com/api/webhooks/1310139957653803018/wfPwxV841W0hcC3JSJuLteY-Ag3bNjGSRWeHDUWGjpOKJmd3atBNswayRdH7CsZO5x6q",
-        "1226356041248280596": "https://discord.com/api/webhooks/1310212699145371678/2Z7526VlJ3N3j4hmhA1EKy0e_us-iqNzeqUKrjtyXX_lrWLj2oFYTheUDrz_oQqBtKYu",
-        "1190581854185721866": "https://discord.com/api/webhooks/1310212797841408020/uhhjriCoGQEmP17h1w5iy46yj1ZYIyvEdOS3yJqk-4N0ST1TT0Unxcc75Tiw7tcxjVGs"
+        "1190483035817255003": "",
+        "1190482921727987735": "",
+        "1190570953130901534": "",
+        "1230423385347981335": "",
+        "1190482842816356372": "",
+        "1190570935233814530": "",
+        "1190482703343157408": "",
+        "1226356041248280596": "",
+        "1190581854185721866": ""
     } 
 }
